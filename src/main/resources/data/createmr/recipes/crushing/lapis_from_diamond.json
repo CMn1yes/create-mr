@@ -8,17 +8,17 @@
   "results": [
     {
       "item": "minecraft:lapis_lazuli",
-      "count": 8
-    },
-    {
-      "item": "minecraft:lapis_lazuli",
-      "count": 4,
-      "chance": 0.65
+      "count": 2
     },
     {
       "item": "minecraft:lapis_lazuli",
       "count": 2,
       "chance": 0.45
+    },
+    {
+      "item": "minecraft:lapis_lazuli",
+      "count": 1,
+      "chance": 0.3
     }
   ],
   "processingTime": 350

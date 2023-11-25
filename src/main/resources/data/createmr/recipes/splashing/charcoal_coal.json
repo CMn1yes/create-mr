@@ -1,0 +1,15 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "minecraft:charcoal"
+    }
+  ],
+  "results": [
+    {
+      "chance": 0.85,
+      "count": 1,
+      "item": "minecraft:coal"
+    }
+  ]
+}

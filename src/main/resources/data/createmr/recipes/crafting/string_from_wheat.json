@@ -1,22 +1,18 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    {
-      "tag": "forge:crops/wheat"
-    },
-    {
-      "tag": "forge:crops/wheat"
-    },
-    {
-      "tag": "forge:crops/wheat"
-    },
-    {
-      "tag": "forge:crops/wheat"
-    },
-    {
-      "item": "minecraft:bamboo"
-    }
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " W ",
+    "WBW",
+    " W "
   ],
+  "key": {
+    "W": {
+      "item": "forge:crops/wheat"
+    },
+    "B": {
+      "tag": "minecraft:bamboo"
+    }
+  },
   "result": {
     "item": "minecraft:string"
   }
