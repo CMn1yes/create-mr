@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NCN",
+    "CGC",
+    "NCN"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:carrot"
+    },
+    "G": {
+      "tag": "forge:ingots/gold"
+    },
+    "N": {
+      "tag": "forge:nuggets/gold"
+    }
+  },
+  "result": {
+    "item": "minecraft:rabbit_foot"
+  }
+}

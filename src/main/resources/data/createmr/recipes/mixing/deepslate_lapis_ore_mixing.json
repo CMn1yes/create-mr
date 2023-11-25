@@ -1,0 +1,24 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:deepslate"
+    },
+    {
+      "tag": "forge:storage_blocks/lapis"
+    },
+    {
+      "tag": "forge:storage_blocks/lapis"
+    },
+    {
+      "tag": "forge:storage_blocks/lapis"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:deepslate_lapis_ore",
+      "count": 1
+    }
+  ],
+  "heatRequirement": "heated"
+}

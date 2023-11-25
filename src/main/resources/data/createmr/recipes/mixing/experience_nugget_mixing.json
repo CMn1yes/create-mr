@@ -1,0 +1,26 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "experience_bottle"
+    },
+    {
+      "item": "experience_bottle"
+    },
+    {
+      "item": "experience_bottle"
+    },
+    {
+      "item": "experience_bottle"
+    },
+    {
+      "item": "experience_bottle"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:experience_nugget",
+      "count": 2
+    }
+  ]
+}

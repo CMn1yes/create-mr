@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " I ",
+    "PNP",
+    "FNF"
+  ],
+  "key": {
+    "N": {
+      "tag": "forge:storage_blocks/netherite"
+    },
+    "I": {
+      "tag": "forge:ingots/netherite"
+    },
+    "P": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "F": {
+      "item": "minecraft:feather"
+    }
+  },
+  "result": {
+    "item": "minecraft:elytra"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "tag": "forge:gems/diamond"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:lapis_lazuli",
+      "count": 8
+    },
+    {
+      "item": "minecraft:lapis_lazuli",
+      "count": 4,
+      "chance": 0.65
+    },
+    {
+      "item": "minecraft:lapis_lazuli",
+      "count": 2,
+      "chance": 0.45
+    }
+  ],
+  "processingTime": 350
+}

@@ -1,0 +1,24 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:deepslate"
+    },
+    {
+      "tag": "forge:storage_blocks/redstone"
+    },
+    {
+      "tag": "forge:storage_blocks/redstone"
+    },
+    {
+      "tag": "forge:storage_blocks/redstone"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:deepslate_redstone_ore",
+      "count": 1
+    }
+  ],
+  "heatRequirement": "heated"
+}

@@ -1,0 +1,21 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:netherrack"
+    },
+    {
+      "tag": "forge:storage_blocks/quartz"
+    },
+    {
+      "tag": "forge:storage_blocks/quartz"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:nether_quartz_ore",
+      "count": 1
+    }
+  ],
+  "heatRequirement": "heated"
+}

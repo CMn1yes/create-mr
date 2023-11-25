@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " Z ",
+    "GDG",
+    " Z "
+  ],
+  "key": {
+    "Z": {
+      "tag": "forge:storage_blocks/zinc"
+    },
+    "G": {
+      "tag": "forge:storage_blocks/gold"
+    },
+    "D": {
+      "tag": "forge:gems/diamond"
+    }
+  },
+  "result": {
+    "item": "minecraft:diamond",
+    "count": 2
+  }
+}
