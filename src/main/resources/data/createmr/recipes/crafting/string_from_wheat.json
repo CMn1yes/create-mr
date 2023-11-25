@@ -7,10 +7,10 @@
   ],
   "key": {
     "W": {
-      "item": "forge:crops/wheat"
+      "tag": "forge:crops/wheat"
     },
     "B": {
-      "tag": "minecraft:bamboo"
+      "item": "minecraft:bamboo"
     }
   },
   "result": {
